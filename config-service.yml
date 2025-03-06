@@ -5,5 +5,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ATalemsi/config-repo_assurance
+          uri: https://github.com/WALIDSAIFI/Config_assur.git
           search-paths: config-repo_assurance
